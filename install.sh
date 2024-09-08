@@ -300,9 +300,9 @@ else
     exit 1
 fi
 # Call the function to prompt for language installations
-prompt_for_languages
+#prompt_for_languages
 
 # Call the function to prompt for database installations
-prompt_for_databases
+#prompt_for_databases
 # Installation script complete message in blue
 echo -e "\033[34mInstallation script complete. Please type 'exit' and press Enter to close the Termux session.\033[0m"
