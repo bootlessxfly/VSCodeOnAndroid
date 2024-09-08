@@ -11,10 +11,10 @@
 
 # User name
 #change your user name here
-user_name="VSCode"
+user_name="chwhite"
 
 # Default editor
-editor="nano"
+editor="nvim"
 
 #### Environment variables ############
 
@@ -27,7 +27,7 @@ export MANPAGER="less -R --use-color -Dd+g -Du+b"
 # EDITOR
 export EDITOR=$editor
 export SUDO_EDITOR=$editor
-export VISUAL="vim"
+export VISUAL="nvim"
 
 # USER
 export USER=$user_name
